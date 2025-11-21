@@ -13,7 +13,7 @@ public class DataInitializer {
 
     
     
-    private final String BASE_IMAGE_URL = "http://98.93.246.221:8080/images/";
+    private final String BASE_IMAGE_URL = "http://52.87.233.24:8080/images/";
 
     @Bean
     CommandLineRunner initDatabase(ProductoRepository repository) {
