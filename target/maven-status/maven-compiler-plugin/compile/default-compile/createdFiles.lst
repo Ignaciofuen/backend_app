@@ -1,0 +1,17 @@
+com\example\demo\DemoApplication.class
+com\example\demo\model\Usuario.class
+com\example\demo\service\ProductoService.class
+com\example\demo\controller\ProductoController.class
+com\example\demo\model\Producto.class
+com\example\demo\controller\CarritoController.class
+com\example\demo\service\UsuarioService.class
+com\example\demo\controller\UsuarioController$LoginRequest.class
+com\example\demo\model\entity\UsuarioEntity.class
+com\example\demo\repository\ProductoRepository.class
+com\example\demo\model\entity\ProductoEntity.class
+com\example\demo\repository\CarritoRepository.class
+com\example\demo\repository\UsuarioRepository.class
+com\example\demo\config\DataInitializer.class
+com\example\demo\model\entity\CarritoEntity.class
+com\example\demo\service\CarritoService.class
+com\example\demo\controller\UsuarioController.class

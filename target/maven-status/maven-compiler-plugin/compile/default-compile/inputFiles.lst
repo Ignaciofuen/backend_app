@@ -1,0 +1,16 @@
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\config\DataInitializer.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\controller\CarritoController.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\controller\ProductoController.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\controller\UsuarioController.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\DemoApplication.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\model\entity\CarritoEntity.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\model\entity\ProductoEntity.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\model\entity\UsuarioEntity.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\model\Producto.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\model\Usuario.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\repository\CarritoRepository.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\repository\ProductoRepository.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\repository\UsuarioRepository.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\service\CarritoService.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\service\ProductoService.java
+C:\Users\ignfu\OneDrive\Desktop\backend_app\src\main\java\com\example\demo\service\UsuarioService.java
